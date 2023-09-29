@@ -20,7 +20,7 @@
       "UrlSite": "https://www.google.com/?hl=fr",
       
       "ActiveApp": "yes",
-      "ActiveWeb": "yes",
+      "ActiveWeb": "off",
       
       "Switch": "fan"
     }
