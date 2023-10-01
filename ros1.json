@@ -20,7 +20,7 @@
       "UrlSite": "https://www.rossstores.com/",
       
       "ActiveApp": "yes",
-      "ActiveWeb": "yes",
+      "ActiveWeb": "off",
       
       "Switch": "fan"
     }
