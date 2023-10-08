@@ -19,8 +19,8 @@
       "AdsCount": "3",
       "UrlSite": "https://www.biglots.com/",
       
-      "ActiveApp": "off",
-      "ActiveWeb": "off",
+      "ActiveApp": "yes",
+      "ActiveWeb": "yes",
       
       "Switch": "fan"
     }
