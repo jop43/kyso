@@ -20,7 +20,7 @@
       "UrlSite": "https://www.culvers.com/",
       
       "ActiveApp": "yes",
-      "ActiveWeb": "yes",
+      "ActiveWeb": "off",
       
       "Switch": "fan"
     }
