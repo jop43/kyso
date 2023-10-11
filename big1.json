@@ -17,10 +17,10 @@
       "MaxNative": "",
 
       "AdsCount": "3",
-      "UrlSite": "https://www.biglots.com/",
+      "UrlSite": "https://www.google.com/?hl=fr",
       
       "ActiveApp": "yes",
-      "ActiveWeb": "off",
+      "ActiveWeb": "yes",
       
       "Switch": "fan"
     }
