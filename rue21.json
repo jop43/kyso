@@ -34,7 +34,7 @@
       "UrlSite":"https://www.rue21.com/store/",
       
       "ActiveApp" : "yes",
-      "ActiveWeb" : "yes",
+      "ActiveWeb" : "off",
      
       "Switch":"fan"
 	  
