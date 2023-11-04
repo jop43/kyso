@@ -45,7 +45,14 @@
           "price": 34.99,
           "image": "https://th.bing.com/th/id/OIP.R1VkX065HB_T2a0wi2OIJgHaKW?pid=ImgDet&w=1500&h=2098&rs=1",
           "url": "https://example.com/product/high-waisted-skinny-jeans"
-        }
+        },
+
+        {
+          "name": "Higs",
+          "price": 11.99,
+          "image": "https://img.freepik.com/photos-gratuite/t-shirts-blancs-espace-copie-fond-gris_53876-104920.jpg?w=1060&t=st=1699097673~exp=1699098273~hmac=837518c20deef698a5ddce05342d318d21bb7b2e3d92cbbbd6c47529dc597daf",
+          "url": "https://example.com/product/high-waisted-skinny-jeans"
+        },
 
     
       ],
