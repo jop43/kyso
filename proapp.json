@@ -51,27 +51,27 @@
 
    "jacket": [
         {
-          "name": "PUFFER Veste dhiver",
-          "price": 119,99,
-          "image": "https://img01.ztat.net/article/spp-media-p1/6b2af1f79eab42f7afc00d28738e27f8/de0df3075acf4124b155881ccd0043fd.jpg?imwidth=1800",
+          "name": "Classic Blue Jeans",
+          "price": 39.99,
+          "image": "https://example.com/classic-blue-jeans.jpg",
           "url": "https://example.com/product/classic-blue-jeans"
         },
         {
-          "name": "ULTIMATE WINDCHEATER  Veste dhiver",
-          "price": 100.99,
-          "image": "https://img01.ztat.net/article/spp-media-p1/441a123ccecd4af3a471af6c77e5df02/92382b6e557e47ca92c56ab452e7d2b2.jpg?imwidth=1800",
+          "name": "Slim Fit Black Jeans",
+          "price": 49.99,
+          "image": "https://example.com/slim-fit-black-jeans.jpg",
           "url": "https://example.com/product/slim-fit-black-jeans"
         },
         {
-          "name": "ESSENTIAL JACKET Doudoune",
-          "price": 210.99,
-          "image": "https://img01.ztat.net/article/spp-media-p1/2ceee1d5e68d47b19109b9d40c9d34cc/87d59a78b1314fc19e0a1873526a332c.jpg?imwidth=762",
+          "name": "Distressed Denim",
+          "price": 59.99,
+          "image": "https://example.com/distressed-denim.jpg",
           "url": "https://example.com/product/distressed-denim"
         },
         {
-          "name": "WITH INTERIOR Veste misaison",
+          "name": "High-Waisted Skinny Jeans",
           "price": 34.99,
-          "image": "https://img01.ztat.net/article/spp-media-p1/c684c4f9f4794c8eace1dc7984ae2bcc/c0cb83438cd646c98820e9431c544ce1.jpg?imwidth=1800",
+          "image": "https://example.com/high-waisted-skinny-jeans.jpg",
           "url": "https://example.com/product/high-waisted-skinny-jeans"
         }
     
