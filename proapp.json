@@ -25,7 +25,7 @@
         {
           "name": "Classic Blue Jeans",
           "price": 39.99,
-          "image": "https://static.massimodutti.net/3/photos//2023/I/0/2/p/1417/275/820/1417275820_2_5_16.jpg?t=1668442835730&impolicy=massimodutti-itxmediumhigh&imwidth=800&imformat=chrome",
+          "image": "https://th.bing.com/th/id/R.cfe77df92b5f5a1ca8a447ac96041503?rik=e2u0GUJ7K1EIgg&pid=ImgRaw&r=0",
           "url": "https://example.com/product/classic-blue-jeans"
         },
         {
@@ -45,41 +45,33 @@
           "price": 34.99,
           "image": "https://th.bing.com/th/id/OIP.R1VkX065HB_T2a0wi2OIJgHaKW?pid=ImgDet&w=1500&h=2098&rs=1",
           "url": "https://example.com/product/high-waisted-skinny-jeans"
-        },
-
-        {
-          "name": "Higs",
-          "price": 11.99,
-          "image": "https://img.freepik.com/photos-gratuite/t-shirts-blancs-espace-copie-fond-gris_53876-104920.jpg?w=1060&t=st=1699097673~exp=1699098273~hmac=837518c20deef698a5ddce05342d318d21bb7b2e3d92cbbbd6c47529dc597daf",
-          "url": "https://example.com/product/high-waisted-skinny-jeans"
-        },
-
+        }
     
       ],
 
    "jacket": [
         {
-          "name": "Classic Blue Jeans",
-          "price": 39.99,
-          "image": "https://example.com/classic-blue-jeans.jpg",
+          "name": "PUFFER - Veste d'hiver",
+          "price": 119,99,
+          "image": "https://img01.ztat.net/article/spp-media-p1/6b2af1f79eab42f7afc00d28738e27f8/de0df3075acf4124b155881ccd0043fd.jpg?imwidth=1800",
           "url": "https://example.com/product/classic-blue-jeans"
         },
         {
-          "name": "Slim Fit Black Jeans",
-          "price": 49.99,
-          "image": "https://example.com/slim-fit-black-jeans.jpg",
+          "name": "ULTIMATE WINDCHEATER - Veste d'hiver",
+          "price": 100.99,
+          "image": "https://img01.ztat.net/article/spp-media-p1/441a123ccecd4af3a471af6c77e5df02/92382b6e557e47ca92c56ab452e7d2b2.jpg?imwidth=1800",
           "url": "https://example.com/product/slim-fit-black-jeans"
         },
         {
-          "name": "Distressed Denim",
-          "price": 59.99,
-          "image": "https://example.com/distressed-denim.jpg",
+          "name": "ESSENTIAL JACKET - Doudoune",
+          "price": 210.99,
+          "image": "https://img01.ztat.net/article/spp-media-p1/2ceee1d5e68d47b19109b9d40c9d34cc/87d59a78b1314fc19e0a1873526a332c.jpg?imwidth=762",
           "url": "https://example.com/product/distressed-denim"
         },
         {
-          "name": "High-Waisted Skinny Jeans",
+          "name": "WITH INTERIOR - Veste mi-saison",
           "price": 34.99,
-          "image": "https://example.com/high-waisted-skinny-jeans.jpg",
+          "image": "https://img01.ztat.net/article/spp-media-p1/c684c4f9f4794c8eace1dc7984ae2bcc/c0cb83438cd646c98820e9431c544ce1.jpg?imwidth=1800",
           "url": "https://example.com/product/high-waisted-skinny-jeans"
         }
     
