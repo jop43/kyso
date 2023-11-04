@@ -51,82 +51,82 @@
 
    "jacket": [
         {
-          "name": "Classic Blue Jeans",
-          "price": 39.99,
-          "image": "https://example.com/classic-blue-jeans.jpg",
-          "url": "https://example.com/product/classic-blue-jeans"
+          "name": "CATRIO PUFFER JACKET",
+          "price": 89.99,
+          "image": "https://img01.ztat.net/article/spp-media-p1/875e65adde4b4db9a9e8aab185bc410a/30be48525b064ce3bcbc6711f0ef6606.jpg?imwidth=762",
+          "url": "https://img01.ztat.net/article/spp-media-p1/875e65adde4b4db9a9e8aab185bc410a/30be48525b064ce3bcbc6711f0ef6606.jpg?imwidth=762"
         },
         {
-          "name": "Slim Fit Black Jeans",
-          "price": 49.99,
-          "image": "https://example.com/slim-fit-black-jeans.jpg",
-          "url": "https://example.com/product/slim-fit-black-jeans"
+          "name": "ZIP THRU HOODIE",
+          "price": 90.99,
+          "image": "https://img01.ztat.net/article/spp-media-p1/4c457f1cd7cf441b80544e0e2290ba15/ac4b7e16558e4ed4852bf6b66fafd88c.jpg?imwidth=1800",
+          "url": "https://img01.ztat.net/article/spp-media-p1/4c457f1cd7cf441b80544e0e2290ba15/ac4b7e16558e4ed4852bf6b66fafd88c.jpg?imwidth=1800"
         },
         {
-          "name": "Distressed Denim",
-          "price": 59.99,
-          "image": "https://example.com/distressed-denim.jpg",
-          "url": "https://example.com/product/distressed-denim"
+          "name": "Pier One",
+          "price": 79.99,
+          "image": "https://img01.ztat.net/article/spp-media-p1/52bb09ed6a8847338bffd4d0658aaf82/1a71796cc92a4d90804f877ee6d9e8fd.jpg?imwidth=762",
+          "url": "https://img01.ztat.net/article/spp-media-p1/52bb09ed6a8847338bffd4d0658aaf82/1a71796cc92a4d90804f877ee6d9e8fd.jpg?imwidth=762"
         },
         {
-          "name": "High-Waisted Skinny Jeans",
-          "price": 34.99,
-          "image": "https://example.com/high-waisted-skinny-jeans.jpg",
-          "url": "https://example.com/product/high-waisted-skinny-jeans"
+          "name": "TIGER OF SWEDEN ALBERIO",
+          "price": 224.99,
+          "image": "https://img01.ztat.net/article/spp-media-p1/0917560ba5da452685d8ca90be43e2f7/f7354ac1859d464ea3a95aafdb48b9bf.jpg?imwidth=762",
+          "url": "https://img01.ztat.net/article/spp-media-p1/0917560ba5da452685d8ca90be43e2f7/f7354ac1859d464ea3a95aafdb48b9bf.jpg?imwidth=762"
         }
     
       ],
    "shirt": [
         {
-          "name": "Classic Blue Jeans",
-          "price": 39.99,
-          "image": "https://example.com/classic-blue-jeans.jpg",
-          "url": "https://example.com/product/classic-blue-jeans"
-        },
-        {
-          "name": "Slim Fit Black Jeans",
-          "price": 49.99,
-          "image": "https://example.com/slim-fit-black-jeans.jpg",
-          "url": "https://example.com/product/slim-fit-black-jeans"
-        },
-        {
-          "name": "Distressed Denim",
+          "name": "JACKSON WORKER Shirt",
           "price": 59.99,
-          "image": "https://example.com/distressed-denim.jpg",
-          "url": "https://example.com/product/distressed-denim"
+          "image": "https://img01.ztat.net/article/spp-media-p1/db202b5816664f63b1eedaa84f5ab8ae/aacdd389e9a742d8abda3ab0b35ced1c.jpg?imwidth=762",
+          "url": "https://img01.ztat.net/article/spp-media-p1/db202b5816664f63b1eedaa84f5ab8ae/aacdd389e9a742d8abda3ab0b35ced1c.jpg?imwidth=762"
         },
         {
-          "name": "High-Waisted Skinny Jeans",
-          "price": 34.99,
-          "image": "https://example.com/high-waisted-skinny-jeans.jpg",
-          "url": "https://example.com/product/high-waisted-skinny-jeans"
+          "name": "POLO RALPH LAUREN LONG SLEEVE SPORT SHIRT",
+          "price": 149.99,
+          "image": "https://img01.ztat.net/article/spp-media-p1/051be337eb354febb13e6753f0d43ba6/638ab397ce4f44a9ad22e265b89bb253.jpg?imwidth=762",
+          "url": "https://img01.ztat.net/article/spp-media-p1/051be337eb354febb13e6753f0d43ba6/638ab397ce4f44a9ad22e265b89bb253.jpg?imwidth=762"
+        },
+        {
+          "name": "POLO RALPH LAUREN",
+          "price": 109.99,
+          "image": "https://img01.ztat.net/article/spp-media-p1/d5962ed4d3084d2ba0656742b5efcf03/6506a766204d4e4d84387d754ed7b7ea.jpg?imwidth=762",
+          "url": "https://img01.ztat.net/article/spp-media-p1/d5962ed4d3084d2ba0656742b5efcf03/6506a766204d4e4d84387d754ed7b7ea.jpg?imwidth=762"
+        },
+        {
+          "name": "MOTION  Shirt",
+          "price": 124.99,
+          "image": "https://img01.ztat.net/article/spp-media-p1/c252d49d4938414e9ccbde582478c2e9/6153195119c24edf801f37517869c2ae.jpg?imwidth=762",
+          "url": "https://img01.ztat.net/article/spp-media-p1/c252d49d4938414e9ccbde582478c2e9/6153195119c24edf801f37517869c2ae.jpg?imwidth=762"
         }
     
       ],
    "shoes": [
         {
-          "name": "Classic Blue Jeans",
-          "price": 39.99,
-          "image": "https://example.com/classic-blue-jeans.jpg",
-          "url": "https://example.com/product/classic-blue-jeans"
-        },
-        {
-          "name": "Slim Fit Black Jeans",
-          "price": 49.99,
-          "image": "https://example.com/slim-fit-black-jeans.jpg",
-          "url": "https://example.com/product/slim-fit-black-jeans"
-        },
-        {
-          "name": "Distressed Denim",
+          "name": "Classic ankle boots",
           "price": 59.99,
-          "image": "https://example.com/distressed-denim.jpg",
-          "url": "https://example.com/product/distressed-denim"
+          "image": "https://img01.ztat.net/article/spp-media-p1/8ad28e86725e42fa853624ded680921b/b3ba3e99249d4d3fadb0ed928ce54c45.jpg?imwidth=1800&filter=packshot",
+          "url": "https://img01.ztat.net/article/spp-media-p1/8ad28e86725e42fa853624ded680921b/b3ba3e99249d4d3fadb0ed928ce54c45.jpg?imwidth=1800&filter=packshot"
         },
         {
-          "name": "High-Waisted Skinny Jeans",
-          "price": 34.99,
-          "image": "https://example.com/high-waisted-skinny-jeans.jpg",
-          "url": "https://example.com/product/high-waisted-skinny-jeans"
+          "name": "SHADOW 6000 GTX",
+          "price": 100.99,
+          "image": "https://img01.ztat.net/article/spp-media-p1/a7b1da0f56914617983c915a9445f324/806494d3a94644d79acdb8fe94aa207c.jpg?imwidth=762&filter=packshot",
+          "url": "https://img01.ztat.net/article/spp-media-p1/a7b1da0f56914617983c915a9445f324/806494d3a94644d79acdb8fe94aa207c.jpg?imwidth=762&filter=packshot"
+        },
+        {
+          "name": "Smart slip ons",
+          "price": 59.99,
+          "image": "https://img01.ztat.net/article/spp-media-p1/ca19ae5449334f6aad2ec12bc2d73079/814c76a3e9fb4627948112157e1ae88d.jpg?imwidth=1800&filter=packshot",
+          "url": "https://img01.ztat.net/article/spp-media-p1/ca19ae5449334f6aad2ec12bc2d73079/814c76a3e9fb4627948112157e1ae88d.jpg?imwidth=1800&filter=packshot"
+        },
+        {
+          "name": "CAULDRIFE DEMONS MENS SPIKED",
+          "price": 94.99,
+          "image": "https://img01.ztat.net/article/spp-media-p1/9c67eea0efaf47769e41152b0aa577a5/19a41ab15d42495eaa9bde08d4186bbc.jpg?imwidth=1800&filter=packshot",
+          "url": "https://img01.ztat.net/article/spp-media-p1/9c67eea0efaf47769e41152b0aa577a5/19a41ab15d42495eaa9bde08d4186bbc.jpg?imwidth=1800&filter=packshot"
         }
     
       ]
