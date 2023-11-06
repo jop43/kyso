@@ -26,25 +26,25 @@
           "name": "Classic Blue Jeans",
           "price": 39.99,
           "image": "https://th.bing.com/th/id/R.cfe77df92b5f5a1ca8a447ac96041503?rik=e2u0GUJ7K1EIgg&pid=ImgRaw&r=0",
-          "url": "https://example.com/product/classic-blue-jeans"
+          "url": "https://th.bing.com/th/id/R.cfe77df92b5f5a1ca8a447ac96041503?rik=e2u0GUJ7K1EIgg&pid=ImgRaw&r=0"
         },
         {
           "name": "Slim Fit Black Jeans",
           "price": 49.99,
           "image": "https://th.bing.com/th/id/OIP.oSd6n8_7zYsqQ8e-aekkzwHaLH?pid=ImgDet&w=768&h=1152&rs=1",
-          "url": "https://example.com/product/slim-fit-black-jeans"
+          "url": "https://th.bing.com/th/id/OIP.oSd6n8_7zYsqQ8e-aekkzwHaLH?pid=ImgDet&w=768&h=1152&rs=1"
         },
         {
           "name": "Distressed Denim",
           "price": 59.99,
           "image": "https://static.bershka.net/4/photos2/2022/I/0/2/p/0526/335/400/0526335400_2_4_1.jpg",
-          "url": "https://example.com/product/distressed-denim"
+          "url": "https://static.bershka.net/4/photos2/2022/I/0/2/p/0526/335/400/0526335400_2_4_1.jpg"
         },
         {
           "name": "High-Waisted Skinny Jeans",
           "price": 34.99,
           "image": "https://th.bing.com/th/id/OIP.R1VkX065HB_T2a0wi2OIJgHaKW?pid=ImgDet&w=1500&h=2098&rs=1",
-          "url": "https://example.com/product/high-waisted-skinny-jeans"
+          "url": "https://th.bing.com/th/id/OIP.R1VkX065HB_T2a0wi2OIJgHaKW?pid=ImgDet&w=1500&h=2098&rs=1"
         }
     
       ],
@@ -81,25 +81,25 @@
           "name": "JACKSON WORKER Shirt",
           "price": 59.99,
           "image": "https://img01.ztat.net/article/spp-media-p1/db202b5816664f63b1eedaa84f5ab8ae/aacdd389e9a742d8abda3ab0b35ced1c.jpg?imwidth=762",
-          "url": "https://www.zalando.co.uk/levis-jackson-worker-shirt-decadent-chocolate-l1o22d000-o12.html"
+          "url": "https://img01.ztat.net/article/spp-media-p1/db202b5816664f63b1eedaa84f5ab8ae/aacdd389e9a742d8abda3ab0b35ced1c.jpg?imwidth=762"
         },
         {
           "name": "POLO RALPH LAUREN LONG SLEEVE SPORT SHIRT",
           "price": 149.99,
           "image": "https://img01.ztat.net/article/spp-media-p1/051be337eb354febb13e6753f0d43ba6/638ab397ce4f44a9ad22e265b89bb253.jpg?imwidth=762",
-          "url": "https://www.zalando.co.uk/polo-ralph-lauren-long-sleeve-sport-shirt-multi-coloured-po222d12b-t11.html"
+          "url": "https://img01.ztat.net/article/spp-media-p1/051be337eb354febb13e6753f0d43ba6/638ab397ce4f44a9ad22e265b89bb253.jpg?imwidth=762"
         },
         {
           "name": "POLO RALPH LAUREN",
           "price": 109.99,
           "image": "https://img01.ztat.net/article/spp-media-p1/d5962ed4d3084d2ba0656742b5efcf03/6506a766204d4e4d84387d754ed7b7ea.jpg?imwidth=762",
-          "url": "https://www.zalando.co.uk/polo-ralph-lauren-cubdppcs-long-sleeve-sport-shirt-shirt-navygreen-multi-po222d10t-m11.html"
+          "url": "https://img01.ztat.net/article/spp-media-p1/d5962ed4d3084d2ba0656742b5efcf03/6506a766204d4e4d84387d754ed7b7ea.jpg?imwidth=762"
         },
         {
           "name": "MOTION  Shirt",
           "price": 124.99,
           "image": "https://img01.ztat.net/article/spp-media-p1/c252d49d4938414e9ccbde582478c2e9/6153195119c24edf801f37517869c2ae.jpg?imwidth=762",
-          "url": "https://www.zalando.co.uk/boss-motion-formal-shirt-open-green-bb122d1ks-m11.html"
+          "url": "https://img01.ztat.net/article/spp-media-p1/c252d49d4938414e9ccbde582478c2e9/6153195119c24edf801f37517869c2ae.jpg?imwidth=762"
         }
     
       ],
