@@ -46,18 +46,23 @@
           "image": "https://assets.biglots.com/is/image/biglots/810447855-B0-1?$small$",
           "url": "https://www.biglots.com/product/jamestown-espresso-reclining-sofa/p810447855?N=3063694192&pos=1:6"
         }
-    
+    {
+          "name": "Arlis Gray Sofa",
+          "price": 299.00,
+          "image": "https://assets.biglots.com/is/image/biglots/810613879-A0-3?$small$",
+          "url": "https://www.biglots.com/product/arlis-gray-sofa/p810613879?N=3063694192&pos=1:1"
+        },
       ],
 
    "jacket": [
         {
-          "name": "Classic Blue Jeans",
-          "price": 39.99,
-          "image": "https://example.com/classic-blue-jeans.jpg",
-          "url": "https://example.com/product/classic-blue-jeans"
+          "name": "King Medium Foam Mattress",
+          "price": 149.00,
+          "image": "https://assets.biglots.com/is/image/biglots/810664901_810664902_810664903_810664904-B0?$small$",
+          "url": "https://www.biglots.com/product/real-living-10-medium-foam-mattress/svc1460087?pos=1:2"
         },
         {
-          "name": "Slim Fit Black Jeans",
+          "name": "Coolsense Twin 10"",
           "price": 49.99,
           "image": "https://example.com/slim-fit-black-jeans.jpg",
           "url": "https://example.com/product/slim-fit-black-jeans"
