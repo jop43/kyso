@@ -1,0 +1,133 @@
+{
+    "data": [
+        {
+            "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+            "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+            "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+
+            "FanInterstitial": "IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
+            "FanBanner": "IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
+            "FanNative": "IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
+
+            "ApplovinInterstitial": "",
+            "ApplovinBanner": "",
+
+            "MaxInterstitial": "",
+            "MaxBanner": "",
+            "MaxNative": "",
+            
+            "AdsCount": "3",
+            "ActiveApp": "yes",
+            "Switch": "fan"
+        }
+    ],
+    "jeans": [
+        {
+          "name": "Arlis Gray Sofa",
+          "price": 299.00,
+          "image": "https://assets.biglots.com/is/image/biglots/810613879-A0-3?$small$",
+          "url": "https://www.biglots.com/product/arlis-gray-sofa/p810613879?N=3063694192&pos=1:1"
+        },
+        {
+          "name": "Slim Fit Black Jeans",
+          "price": 49.99,
+          "image": "https://th.bing.com/th/id/OIP.oSd6n8_7zYsqQ8e-aekkzwHaLH?pid=ImgDet&w=768&h=1152&rs=1",
+          "url": "https://example.com/product/slim-fit-black-jeans"
+        },
+        {
+          "name": "Distressed Denim",
+          "price": 59.99,
+          "image": "https://static.bershka.net/4/photos2/2022/I/0/2/p/0526/335/400/0526335400_2_4_1.jpg",
+          "url": "https://example.com/product/distressed-denim"
+        },
+        {
+          "name": "High-Waisted Skinny Jeans",
+          "price": 34.99,
+          "image": "https://th.bing.com/th/id/OIP.R1VkX065HB_T2a0wi2OIJgHaKW?pid=ImgDet&w=1500&h=2098&rs=1",
+          "url": "https://example.com/product/high-waisted-skinny-jeans"
+        }
+    
+      ],
+
+   "jacket": [
+        {
+          "name": "Classic Blue Jeans",
+          "price": 39.99,
+          "image": "https://example.com/classic-blue-jeans.jpg",
+          "url": "https://example.com/product/classic-blue-jeans"
+        },
+        {
+          "name": "Slim Fit Black Jeans",
+          "price": 49.99,
+          "image": "https://example.com/slim-fit-black-jeans.jpg",
+          "url": "https://example.com/product/slim-fit-black-jeans"
+        },
+        {
+          "name": "Distressed Denim",
+          "price": 59.99,
+          "image": "https://example.com/distressed-denim.jpg",
+          "url": "https://example.com/product/distressed-denim"
+        },
+        {
+          "name": "High-Waisted Skinny Jeans",
+          "price": 34.99,
+          "image": "https://example.com/high-waisted-skinny-jeans.jpg",
+          "url": "https://example.com/product/high-waisted-skinny-jeans"
+        }
+    
+      ],
+   "shirt": [
+        {
+          "name": "Classic Blue Jeans",
+          "price": 39.99,
+          "image": "https://example.com/classic-blue-jeans.jpg",
+          "url": "https://example.com/product/classic-blue-jeans"
+        },
+        {
+          "name": "Slim Fit Black Jeans",
+          "price": 49.99,
+          "image": "https://example.com/slim-fit-black-jeans.jpg",
+          "url": "https://example.com/product/slim-fit-black-jeans"
+        },
+        {
+          "name": "Distressed Denim",
+          "price": 59.99,
+          "image": "https://example.com/distressed-denim.jpg",
+          "url": "https://example.com/product/distressed-denim"
+        },
+        {
+          "name": "High-Waisted Skinny Jeans",
+          "price": 34.99,
+          "image": "https://example.com/high-waisted-skinny-jeans.jpg",
+          "url": "https://example.com/product/high-waisted-skinny-jeans"
+        }
+    
+      ],
+   "shoes": [
+        {
+          "name": "Classic Blue Jeans",
+          "price": 39.99,
+          "image": "https://example.com/classic-blue-jeans.jpg",
+          "url": "https://example.com/product/classic-blue-jeans"
+        },
+        {
+          "name": "Slim Fit Black Jeans",
+          "price": 49.99,
+          "image": "https://example.com/slim-fit-black-jeans.jpg",
+          "url": "https://example.com/product/slim-fit-black-jeans"
+        },
+        {
+          "name": "Distressed Denim",
+          "price": 59.99,
+          "image": "https://example.com/distressed-denim.jpg",
+          "url": "https://example.com/product/distressed-denim"
+        },
+        {
+          "name": "High-Waisted Skinny Jeans",
+          "price": 34.99,
+          "image": "https://example.com/high-waisted-skinny-jeans.jpg",
+          "url": "https://example.com/product/high-waisted-skinny-jeans"
+        }
+    
+      ]
+}
