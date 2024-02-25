@@ -23,28 +23,28 @@
     ],
     "jeans": [
         {
-          "name": "Arlis Gray Sofa",
-          "price": 299.00,
-          "image": "https://assets.biglots.com/is/image/biglots/810613879-A0-3?$small$",
-          "url": "https://www.biglots.com/product/arlis-gray-sofa/p810613879?N=3063694192&pos=1:1"
+          "name": "Wibbly Balls",
+          "price": 1.25,
+          "image": "https://www.dollartree.com/ccstore/v1/images/?source=/file/v7307909298523201815/products/327472_v42.jpg&height=940&width=940",
+          "url": "https://www.dollartree.com/puffer-wibbly-balls-75-in/327472"
         },
         {
-          "name": "Fairview 5-Piece",
-          "price": 399.99,
-          "image": "https://assets.biglots.com/is/image/biglots/810599624?$small$",
-          "url": "https://www.biglots.com/product/fairview-5-piece-counter-height-dining-set/p810599624?N=3063694192&pos=1:2"
+          "name": "Dazzle Ducks",
+          "price": 1.25,
+          "image": "https://www.dollartree.com/ccstore/v1/images/?source=/file/v3101210636071192526/products/380349.jpg&height=940&width=940",
+          "url": "https://www.dollartree.com/dazzle-ducks-3x35-in/380349"
         },
         {
-          "name": "Castillo Electric",
+          "name": "Plush Wind",
           "price": 999.99,
-          "image": "https://assets.biglots.com/is/image/biglots/810617768-B0-1?$small$",
-          "url": "https://www.biglots.com/product/73-5-castillo-electric-fireplace-console/p810617768?N=3063694192&pos=1:39"
+          "image": "https://www.dollartree.com/ccstore/v1/images/?source=/file/v3871213777685208966/products/362629_v2.jpg&height=940&width=940",
+          "url": "https://www.dollartree.com/plush-wind-up-hopping-easter-icons-374x275x433-in/362629"
         },
         {
-          "name": "Jamestown Espresso",
-          "price": 699.99,
-          "image": "https://assets.biglots.com/is/image/biglots/810447855-B0-1?$small$",
-          "url": "https://www.biglots.com/product/jamestown-espresso-reclining-sofa/p810447855?N=3063694192&pos=1:6"
+          "name": "Toy Cars",
+          "price": 1.25,
+          "image": "https://www.dollartree.com/ccstore/v1/images/?source=/file/v6592110134791221890/products/16337.jpg&height=940&width=940",
+          "url": "https://www.dollartree.com/hot-wheels-die-cast-toy-cars/16337"
         }
       ],
 
