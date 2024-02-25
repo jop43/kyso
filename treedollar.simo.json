@@ -1,0 +1,132 @@
+{
+    "data": [
+        {
+            "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+            "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+            "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+
+            "FanInterstitial": "IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
+            "FanBanner": "IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
+            "FanNative": "IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
+
+            "ApplovinInterstitial": "",
+            "ApplovinBanner": "",
+
+            "MaxInterstitial": "",
+            "MaxBanner": "",
+            "MaxNative": "",
+            
+            "AdsCount": "3",
+            "ActiveApp": "yes",
+            "Switch": "fan"
+        }
+    ],
+    "jeans": [
+        {
+          "name": "Arlis Gray Sofa",
+          "price": 299.00,
+          "image": "https://assets.biglots.com/is/image/biglots/810613879-A0-3?$small$",
+          "url": "https://www.biglots.com/product/arlis-gray-sofa/p810613879?N=3063694192&pos=1:1"
+        },
+        {
+          "name": "Fairview 5-Piece",
+          "price": 399.99,
+          "image": "https://assets.biglots.com/is/image/biglots/810599624?$small$",
+          "url": "https://www.biglots.com/product/fairview-5-piece-counter-height-dining-set/p810599624?N=3063694192&pos=1:2"
+        },
+        {
+          "name": "Castillo Electric",
+          "price": 999.99,
+          "image": "https://assets.biglots.com/is/image/biglots/810617768-B0-1?$small$",
+          "url": "https://www.biglots.com/product/73-5-castillo-electric-fireplace-console/p810617768?N=3063694192&pos=1:39"
+        },
+        {
+          "name": "Jamestown Espresso",
+          "price": 699.99,
+          "image": "https://assets.biglots.com/is/image/biglots/810447855-B0-1?$small$",
+          "url": "https://www.biglots.com/product/jamestown-espresso-reclining-sofa/p810447855?N=3063694192&pos=1:6"
+        }
+      ],
+
+    "jacket": [
+        {
+          "name": "King Mattress",
+          "price": 149.00,
+          "image": "https://assets.biglots.com/is/image/biglots/810664901_810664902_810664903_810664904-B0?$small$",
+          "url": "https://www.biglots.com/product/real-living-10-medium-foam-mattress/svc1460087?pos=1:2"
+        },
+        {
+          "name": "Coolsense Twin 10",
+          "price": 229.00,
+          "image": "https://assets.biglots.com/is/image/biglots/810435268_810435269_810435270_810435291-1?$xlarge$",
+          "url": "https://www.biglots.com/product/coolsense-10-gel-memory-foam-mattress-in-a-box/svc1380085?pos=1:5"
+        },
+        {
+          "name": "Bakersfield Queen",
+          "price": 299.99,
+          "image": "https://assets.biglots.com/is/image/biglots/810548927_810548928_810548929_810548930_810548931_810548932-13?$medium$",
+          "url": "https://www.biglots.com/product/bakersfield-queen-firm-tight-top-mattress/p810548929?N=1173504840&pos=1:1"
+        },
+        {
+          "name": "Del Rio Mattress",
+          "price": 314.97,
+          "image": "https://assets.biglots.com/is/image/biglots/810602521_810602522_810602523_810602524_810602525_810602526?$xlarge$",
+          "url": "https://www.biglots.com/product/serta-del-rio-firm-mattress/svc1360059?pos=1:3"
+        }
+    
+      ],
+   "shirt": [
+        {
+          "name": "Queen Comforter",
+          "price": 24.97,
+          "image": "https://assets.biglots.com/is/image/biglots/810617619_810617562-A0-1?$medium$",
+          "url": "https://www.biglots.com/product/gray-marble-print-faux-fur-full-queen-comforter/p810617619?N=1804466709&pos=1:1"
+        },
+        {
+          "name": "White Washable",
+          "price": 14.99,
+          "image": "https://assets.biglots.com/is/image/biglots/810405621-1?$medium$",
+          "url": "https://www.biglots.com/product/white-washable-cooling-gel-memory-foam-pillows-2-pack/p810405621?N=1804466709&pos=1:5"
+        },
+        {
+          "name": "Blue & Brown Abstract",
+          "price": 62.97,
+          "image": "https://assets.biglots.com/is/image/biglots/810609251-A0-1?$medium$",
+          "url": "https://www.biglots.com/product/blue-brown-abstract-area-rug-runner-set/p810609251?N=1804466709&pos=1:15"
+        },
+        {
+          "name": "Professional Countertop",
+          "price": 79.99,
+          "image": "https://assets.biglots.com/is/image/biglots/810519573-1?$medium$",
+          "url": "https://www.biglots.com/product/0-9-cu-ft-professional-countertop-900w-stainless-steel-microwave-oven/p810519573?N=1804466709&pos=1:18"
+        }
+    
+      ],
+   "shoes": [
+        {
+          "name": "Crestfield Soft-Top",
+          "price": 399.99,
+          "image": "https://assets.biglots.com/is/image/biglots/810580328-2?$small$",
+          "url": "https://www.biglots.com/product/11-x-13-crestfield-soft-top-gazebo-with-curtains-netting-led-post-lights/p810580328?N=551950274&pos=1:3"
+        },
+        {
+          "name": "Gray Rope",
+          "price": 299.99,
+          "image": "https://assets.biglots.com/is/image/biglots/810667625-B0-7?$medium$",
+          "url": "https://www.biglots.com/product/gray-rope-wicker-cushioned-hanging-patio-egg-chair/p810667625?N=551950274&pos=1:7"
+        },
+        {
+          "name": "Broyhill",
+          "price": 2499.99,
+          "image": "https://assets.biglots.com/is/image/biglots/810669044_810669596-B0-11?$medium$",
+          "url": "https://www.biglots.com/product/broyhill-10-x-12-eastlake-hard-top-screen-house-gazebo/combo1090016?N=551950274&pos=1:38"
+        },
+        {
+          "name": "San Marino Wicker",
+          "price": 600.00,
+          "image": "https://assets.biglots.com/is/image/biglots/810671141_810667050_810667049_810667104_810671140-A0?$medium$",
+          "url": "https://www.biglots.com/product/san-marino-wicker-cushioned-patio-glider-chairs-2-pack/p810667050?N=551950274&pos=1:6"
+        }
+    
+      ]
+}
