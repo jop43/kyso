@@ -24,7 +24,7 @@
     "jeans": [
         {
           "name": "Cricket",
-          "price": 39.99,
+          "price":,
           "image": "https://thumbs.atmegame.com/thumbs/6570_thumb.jpg",
           "url": "https://games.atmegame.com/games/cricket-championship/"
         },
