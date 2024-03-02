@@ -45,13 +45,13 @@
           "price": 34.99,
           "image": "https://th.bing.com/th/id/OIP.R1VkX065HB_T2a0wi2OIJgHaKW?pid=ImgDet&w=1500&h=2098&rs=1",
           "url": "https://example.com/product/high-waisted-skinny-jeans"
-        }
+        },
         {
           "name": "master app",
           "price": 39.99,
           "image": "https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/a7db1227fc76a961634a15498a54833e.png",
           "url": "https://translate.google.com/?hl=fr&sl=auto&tl=ar&text=span%20Count%0AitemCount&op=translate"
-        },
+        }
     
       ],
 
