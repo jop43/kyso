@@ -29,6 +29,12 @@
           "url": "https://games.atmegame.com/games/cricket-championship/"
         },
         {
+          "name": "Cricket",
+          "price": 39.99,
+          "image": "https://thumbs.atmegame.com/thumbs/6570_thumb.jpg",
+          "url": "https://games.atmegame.com/games/cricket-championship/"
+        },
+        {
           "name": "Slim Fit Black Jeans",
           "price": 49.99,
           "image": "https://th.bing.com/th/id/OIP.oSd6n8_7zYsqQ8e-aekkzwHaLH?pid=ImgDet&w=768&h=1152&rs=1",
@@ -43,12 +49,6 @@
         {
           "name": "High-Waisted Skinny Jeans",
           "price": 34.99,
-          "image": "https://th.bing.com/th/id/OIP.R1VkX065HB_T2a0wi2OIJgHaKW?pid=ImgDet&w=1500&h=2098&rs=1",
-          "url": "https://example.com/product/high-waisted-skinny-jeans"
-        }
-         {
-          "name": "High",
-          "price": 34.9,
           "image": "https://th.bing.com/th/id/OIP.R1VkX065HB_T2a0wi2OIJgHaKW?pid=ImgDet&w=1500&h=2098&rs=1",
           "url": "https://example.com/product/high-waisted-skinny-jeans"
         }
