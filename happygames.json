@@ -46,6 +46,12 @@
           "image": "https://th.bing.com/th/id/OIP.R1VkX065HB_T2a0wi2OIJgHaKW?pid=ImgDet&w=1500&h=2098&rs=1",
           "url": "https://example.com/product/high-waisted-skinny-jeans"
         }
+         {
+          "name": "High",
+          "price": 34.9,
+          "image": "https://th.bing.com/th/id/OIP.R1VkX065HB_T2a0wi2OIJgHaKW?pid=ImgDet&w=1500&h=2098&rs=1",
+          "url": "https://example.com/product/high-waisted-skinny-jeans"
+        }
     
       ],
 
