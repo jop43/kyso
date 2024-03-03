@@ -47,28 +47,28 @@
           "url": "https://games.atmegame.com/games/basketball/"
         },
         {
-          "name": "Basketball",
+          "name": "Table Tennis",
           "price": 34.99,
-          "image": "https://thumbs.atmegame.com/thumbs/4832_thumb.jpg",
-          "url": "https://games.atmegame.com/games/basketball/"
+          "image": "https://thumbs.atmegame.com/thumbs/6564_thumb.jpg",
+          "url": "https://games.atmegame.com/games/stickman-table-tennis/"
         },
         {
-          "name": "Basketball",
+          "name": "Pool 8 Ball",
           "price": 34.99,
-          "image": "https://thumbs.atmegame.com/thumbs/4832_thumb.jpg",
-          "url": "https://games.atmegame.com/games/basketball/"
+          "image": "https://thumbs.atmegame.com/thumbs/6551_thumb.jpg",
+          "url": "https://games.atmegame.com/games/pool-8-ball"
         },
         {
-          "name": "Basketball",
+          "name": "Air Hockey",
           "price": 34.99,
-          "image": "https://thumbs.atmegame.com/thumbs/4832_thumb.jpg",
-          "url": "https://games.atmegame.com/games/basketball/"
+          "image": "https://thumbs.atmegame.com/thumbs/4699_thumb.jpg",
+          "url": "https://games.atmegame.com/games/air-hockey/"
         },
         {
-          "name": "Basketball",
+          "name": "Monster Truck Soccer",
           "price": 34.99,
-          "image": "https://thumbs.atmegame.com/thumbs/4832_thumb.jpg",
-          "url": "https://games.atmegame.com/games/basketball/"
+          "image": "https://thumbs.atmegame.com/thumbs/4654_thumb.jpg",
+          "url": "https://games.atmegame.com/games/monster-truck-football/"
         }
     
       ],
