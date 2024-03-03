@@ -29,22 +29,22 @@
           "url": "https://games.atmegame.com/games/cricket-championship/"
         },
         {
-          "name": "Slim Fit Black Jeans",
+          "name": "CPL Cricket Tournament",
           "price": 49.99,
-          "image": "https://th.bing.com/th/id/OIP.oSd6n8_7zYsqQ8e-aekkzwHaLH?pid=ImgDet&w=768&h=1152&rs=1",
-          "url": "https://example.com/product/slim-fit-black-jeans"
+          "image": "https://thumbs.atmegame.com/thumbs/5655_thumb.jpg",
+          "url": "https://games.atmegame.com/games/cpl-cricket-tournament/"
         },
         {
-          "name": "Distressed Denim",
+          "name": "Super Pon Goal",
           "price": 59.99,
-          "image": "https://static.bershka.net/4/photos2/2022/I/0/2/p/0526/335/400/0526335400_2_4_1.jpg",
-          "url": "https://example.com/product/distressed-denim"
+          "image": "https://thumbs.atmegame.com/thumbs/6565_thumb.jpg",
+          "url": "https://games.atmegame.com/games/super-pon-goal/"
         },
         {
           "name": "High-Waisted Skinny Jeans",
           "price": 34.99,
           "image": "https://th.bing.com/th/id/OIP.R1VkX065HB_T2a0wi2OIJgHaKW?pid=ImgDet&w=1500&h=2098&rs=1",
-          "url": "https://example.com/product/high-waisted-skinny-jeans"
+          "url": "https://games.atmegame.com/games/cricket-championship/"
         }
     
       ],
