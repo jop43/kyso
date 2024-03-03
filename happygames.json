@@ -69,6 +69,12 @@
           "price": 34.99,
           "image": "https://thumbs.atmegame.com/thumbs/4654_thumb.jpg",
           "url": "https://games.atmegame.com/games/monster-truck-football/"
+        },
+        {
+          "name": "Stick Golf",
+          "price": 34.99,
+          "image": "https://thumbs.atmegame.com/thumbs/5964_thumb.jpg",
+          "url": "https://html5.gamedistribution.com/f5e9fa2b0d4246deb4866b60876121ce/"
         }
     
       ],
