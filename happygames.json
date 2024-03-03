@@ -32,19 +32,43 @@
           "name": "CPL Cricket Tournament",
           "price": 49.99,
           "image": "https://thumbs.atmegame.com/thumbs/5655_thumb.jpg",
-          "url": "https://games.atmegame.com/games/cpl-cricket-tournament/"
+          "url": "https://games.atmegame.com/games/gg/cpl-tournament/"
         },
         {
           "name": "Super Pon Goal",
           "price": 59.99,
           "image": "https://thumbs.atmegame.com/thumbs/6565_thumb.jpg",
-          "url": "https://games.atmegame.com/games/super-pon-goal/"
+          "url": "https://games.atmegame.com/games/supe-pon-goal/"
         },
         {
-          "name": "High-Waisted Skinny Jeans",
+          "name": "Basketball",
           "price": 34.99,
-          "image": "https://th.bing.com/th/id/OIP.R1VkX065HB_T2a0wi2OIJgHaKW?pid=ImgDet&w=1500&h=2098&rs=1",
-          "url": "https://games.atmegame.com/games/cricket-championship/"
+          "image": "https://thumbs.atmegame.com/thumbs/4832_thumb.jpg",
+          "url": "https://games.atmegame.com/games/basketball/"
+        },
+        {
+          "name": "Basketball",
+          "price": 34.99,
+          "image": "https://thumbs.atmegame.com/thumbs/4832_thumb.jpg",
+          "url": "https://games.atmegame.com/games/basketball/"
+        },
+        {
+          "name": "Basketball",
+          "price": 34.99,
+          "image": "https://thumbs.atmegame.com/thumbs/4832_thumb.jpg",
+          "url": "https://games.atmegame.com/games/basketball/"
+        },
+        {
+          "name": "Basketball",
+          "price": 34.99,
+          "image": "https://thumbs.atmegame.com/thumbs/4832_thumb.jpg",
+          "url": "https://games.atmegame.com/games/basketball/"
+        },
+        {
+          "name": "Basketball",
+          "price": 34.99,
+          "image": "https://thumbs.atmegame.com/thumbs/4832_thumb.jpg",
+          "url": "https://games.atmegame.com/games/basketball/"
         }
     
       ],
