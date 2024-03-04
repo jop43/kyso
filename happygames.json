@@ -23,58 +23,28 @@
     ],
     "jeans": [
         {
-          "name": "Cricket",
+          "name": "DRIVE CAR PARKING",
           "price": 39.99,
-          "image": "https://thumbs.atmegame.com/thumbs/6570_thumb.jpg",
-          "url": "https://games.atmegame.com/games/cricket-championship/"
+          "image": "https://img.gamedistribution.com/7b2bc666bffe4058b831de63eddaaf12-512x384.jpg",
+          "url": "https://html5.gamedistribution.com/7b2bc666bffe4058b831de63eddaaf12/?gd_sdk_referrer_url=https://gamedistribution.com/games/drive-car-parking-simulation-game"
         },
         {
-          "name": "CPL Cricket Tournament",
+          "name": "MOTO DRIFT",
           "price": 49.99,
-          "image": "https://thumbs.atmegame.com/thumbs/5655_thumb.jpg",
-          "url": "https://games.atmegame.com/games/gg/cpl-tournament/"
+          "image": "https://img.gamedistribution.com/a3caf983ffcc4f7182eb327bda844628-512x384.jpg",
+          "url": "https://html5.gamedistribution.com/a3caf983ffcc4f7182eb327bda844628/?gd_sdk_referrer_url=https://gamedistribution.com/games/street-racing:-moto-drift"
         },
         {
-          "name": "Super Pon Goal",
+          "name": "HIGHWAY BUS RUSH",
           "price": 59.99,
-          "image": "https://thumbs.atmegame.com/thumbs/6565_thumb.jpg",
-          "url": "https://games.atmegame.com/games/supe-pon-goal/"
+          "image": "https://img.gamedistribution.com/b98f279dd9ab4f20b9438c7bf37149b1-512x384.jpg",
+          "url": "https://html5.gamedistribution.com/b98f279dd9ab4f20b9438c7bf37149b1/?gd_sdk_referrer_url=https://gamedistribution.com/games/highway-bus-rush"
         },
         {
-          "name": "Basketball",
+          "name": "MR RACER",
           "price": 34.99,
-          "image": "https://thumbs.atmegame.com/thumbs/4832_thumb.jpg",
-          "url": "https://games.atmegame.com/games/basketball/"
-        },
-        {
-          "name": "Table Tennis",
-          "price": 34.99,
-          "image": "https://thumbs.atmegame.com/thumbs/6564_thumb.jpg",
-          "url": "https://games.atmegame.com/games/stickman-table-tennis/"
-        },
-        {
-          "name": "Pool 8 Ball",
-          "price": 34.99,
-          "image": "https://thumbs.atmegame.com/thumbs/6551_thumb.jpg",
-          "url": "https://games.atmegame.com/games/pool-8-ball"
-        },
-        {
-          "name": "Air Hockey",
-          "price": 34.99,
-          "image": "https://thumbs.atmegame.com/thumbs/4699_thumb.jpg",
-          "url": "https://games.atmegame.com/games/air-hockey/"
-        },
-        {
-          "name": "Monster Truck Soccer",
-          "price": 34.99,
-          "image": "https://thumbs.atmegame.com/thumbs/4654_thumb.jpg",
-          "url": "https://games.atmegame.com/games/monster-truck-football/"
-        },
-        {
-          "name": "Stick Golf",
-          "price": 34.99,
-          "image": "https://thumbs.atmegame.com/thumbs/5964_thumb.jpg",
-          "url": "https://html5.gamedistribution.com/f5e9fa2b0d4246deb4866b60876121ce/"
+          "image": "https://img.gamedistribution.com/a42cb23aca9647b3840f8a7dca61fde5-512x384.jpg",
+          "url": "https://html5.gamedistribution.com/a42cb23aca9647b3840f8a7dca61fde5/?gd_sdk_referrer_url=https://gamedistribution.com/games/mr-racer-car-racing"
         }
     
       ],
@@ -135,28 +105,58 @@
       ],
    "shoes": [
         {
-          "name": "Classic Blue Jeans",
+          "name": "Cricket",
           "price": 39.99,
-          "image": "https://example.com/classic-blue-jeans.jpg",
-          "url": "https://example.com/product/classic-blue-jeans"
+          "image": "https://thumbs.atmegame.com/thumbs/6570_thumb.jpg",
+          "url": "https://games.atmegame.com/games/cricket-championship/"
         },
         {
-          "name": "Slim Fit Black Jeans",
+          "name": "CPL Cricket Tournament",
           "price": 49.99,
-          "image": "https://example.com/slim-fit-black-jeans.jpg",
-          "url": "https://example.com/product/slim-fit-black-jeans"
+          "image": "https://thumbs.atmegame.com/thumbs/5655_thumb.jpg",
+          "url": "https://games.atmegame.com/games/gg/cpl-tournament/"
         },
         {
-          "name": "Distressed Denim",
+          "name": "Super Pon Goal",
           "price": 59.99,
-          "image": "https://example.com/distressed-denim.jpg",
-          "url": "https://example.com/product/distressed-denim"
+          "image": "https://thumbs.atmegame.com/thumbs/6565_thumb.jpg",
+          "url": "https://games.atmegame.com/games/supe-pon-goal/"
         },
         {
-          "name": "High-Waisted Skinny Jeans",
+          "name": "Basketball",
           "price": 34.99,
-          "image": "https://example.com/high-waisted-skinny-jeans.jpg",
-          "url": "https://example.com/product/high-waisted-skinny-jeans"
+          "image": "https://thumbs.atmegame.com/thumbs/4832_thumb.jpg",
+          "url": "https://games.atmegame.com/games/basketball/"
+        },
+        {
+          "name": "Table Tennis",
+          "price": 34.99,
+          "image": "https://thumbs.atmegame.com/thumbs/6564_thumb.jpg",
+          "url": "https://games.atmegame.com/games/stickman-table-tennis/"
+        },
+        {
+          "name": "Pool 8 Ball",
+          "price": 34.99,
+          "image": "https://thumbs.atmegame.com/thumbs/6551_thumb.jpg",
+          "url": "https://games.atmegame.com/games/pool-8-ball"
+        },
+        {
+          "name": "Air Hockey",
+          "price": 34.99,
+          "image": "https://thumbs.atmegame.com/thumbs/4699_thumb.jpg",
+          "url": "https://games.atmegame.com/games/air-hockey/"
+        },
+        {
+          "name": "Monster Truck Soccer",
+          "price": 34.99,
+          "image": "https://thumbs.atmegame.com/thumbs/4654_thumb.jpg",
+          "url": "https://games.atmegame.com/games/monster-truck-football/"
+        },
+        {
+          "name": "Stick Golf",
+          "price": 34.99,
+          "image": "https://thumbs.atmegame.com/thumbs/5964_thumb.jpg",
+          "url": "https://html5.gamedistribution.com/f5e9fa2b0d4246deb4866b60876121ce/"
         }
     
       ]
