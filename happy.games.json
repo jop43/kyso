@@ -1,0 +1,163 @@
+{
+    "data": [
+        {
+            "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+            "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+            "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+
+            "FanInterstitial": "IMG_16_9_APP_INSTALL#645522883286317_650761136095835",
+            "FanBanner": "IMG_16_9_APP_INSTALL#366986694895115_366986861562065",
+            "FanNative": "IMG_16_9_APP_INSTALL#645522883186327_651620499343232",
+
+            "ApplovinInterstitial": "",
+            "ApplovinBanner": "",
+
+            "MaxInterstitial": "",
+            "MaxBanner": "",
+            "MaxNative": "",
+            
+            "AdsCount": "3",
+            "ActiveApp": "yes",
+            "Switch": "fan"
+        }
+    ],
+    "jeans": [
+        {
+          "name": "DRIVE CAR PARKING",
+          "price": 39.99,
+          "image": "https://img.gamedistribution.com/7b2bc666bffe4058b831de63eddaaf12-512x384.jpg",
+          "url": "https://html5.gamedistribution.com/7b2bc666bffe4058b831de63eddaaf12/?gd_sdk_referrer_url=https://gamedistribution.com/games/drive-car-parking-simulation-game"
+        },
+        {
+          "name": "MOTO DRIFT",
+          "price": 49.99,
+          "image": "https://img.gamedistribution.com/a3caf983ffcc4f7182eb327bda844628-512x384.jpg",
+          "url": "https://html5.gamedistribution.com/a3caf983ffcc4f7182eb327bda844628/?gd_sdk_referrer_url=https://gamedistribution.com/games/street-racing:-moto-drift"
+        },
+        {
+          "name": "HIGHWAY BUS RUSH",
+          "price": 59.99,
+          "image": "https://img.gamedistribution.com/b98f279dd9ab4f20b9438c7bf37149b1-512x384.jpg",
+          "url": "https://html5.gamedistribution.com/b98f279dd9ab4f20b9438c7bf37149b1/?gd_sdk_referrer_url=https://gamedistribution.com/games/highway-bus-rush"
+        },
+        {
+          "name": "MR RACER",
+          "price": 34.99,
+          "image": "https://img.gamedistribution.com/a42cb23aca9647b3840f8a7dca61fde5-512x384.jpg",
+          "url": "https://html5.gamedistribution.com/a42cb23aca9647b3840f8a7dca61fde5/?gd_sdk_referrer_url=https://gamedistribution.com/games/mr-racer-car-racing"
+        }
+    
+      ],
+
+   "jacket": [
+        {
+          "name": "DREAM WEDDING PLANNER",
+          "price": 39.99,
+          "image": "https://img.gamedistribution.com/4e5816ea29c44c4999f9e277910e09de-512x384.jpg",
+          "url": "https://html5.gamedistribution.com/4e5816ea29c44c4999f9e277910e09de/"
+        },
+        {
+          "name": "Popstar Dress Up",
+          "price": 49.99,
+          "image": "https://thumbs.atmegame.com/thumbs/6553_thumb.jpg",
+          "url": " https://games.atmegame.com/games/popstar-dress-up/"
+        },
+        {
+          "name": "Girl Dress Up",
+          "price": 59.99,
+          "image": "https://thumbs.atmegame.com/thumbs/6539_thumb.jpg",
+          "url": " https://games.atmegame.com/games/girl-dress-up/"
+        },
+        {
+          "name": "Pizza Hunter",
+          "price": 34.99,
+          "image": "https://thumbs.atmegame.com/thumbs/6348_thumb.jpg",
+          "url": "https://html5.gamedistribution.com/dad87c64a00d4d3bb60ac582cc8e667b/"
+        }
+    
+      ],
+   "shirt": [
+        {
+          "name": "WORD SEARCH",
+          "price": 39.99,
+          "image": "https://img.gamedistribution.com/c13ee9c06edc4f0a8d7f6f291a7c13d8-512x384.jpeg",
+          "url": "https://html5.gamedistribution.com/c13ee9c06edc4f0a8d7f6f291a7c13d8/?gd_sdk_referrer_url=https://gamedistribution.com/games/word-search-2"
+        },
+        {
+          "name": "KITTY SCRAMBLE",
+          "price": 49.99,
+          "image": "https://img.gamedistribution.com/944186abe50e452dac7f0e8d3e0a8814-512x384.jpeg",
+          "url": "https://html5.gamedistribution.com/944186abe50e452dac7f0e8d3e0a8814/?gd_sdk_referrer_url=https://gamedistribution.com/games/kitty-scramble"
+        },
+        {
+          "name": "HEXA",
+          "price": 59.99,
+          "image": "https://img.gamedistribution.com/ab1984b4b1314e1dab545a34b62bce47-512x384.jpg",
+          "url": "https://html5.gamedistribution.com/ab1984b4b1314e1dab545a34b62bce47/?gd_sdk_referrer_url=https://gamedistribution.com/games/hexa"
+        },
+        {
+          "name": "4 PIX WORD QUIZ",
+          "price": 34.99,
+          "image": "https://img.gamedistribution.com/992bf414c2fd4a7d8160bcbafd99b6f3-512x384.jpg",
+          "url": "https://html5.gamedistribution.com/992bf414c2fd4a7d8160bcbafd99b6f3/?gd_sdk_referrer_url=https://gamedistribution.com/games/4-pix-word-quiz-1"
+        }
+    
+      ],
+   "shoes": [
+        {
+          "name": "Cricket",
+          "price": 39.99,
+          "image": "https://thumbs.atmegame.com/thumbs/6570_thumb.jpg",
+          "url": "https://games.atmegame.com/games/cricket-championship/"
+        },
+        {
+          "name": "CPL Cricket Tournament",
+          "price": 49.99,
+          "image": "https://thumbs.atmegame.com/thumbs/5655_thumb.jpg",
+          "url": "https://games.atmegame.com/games/gg/cpl-tournament/"
+        },
+        {
+          "name": "Super Pon Goal",
+          "price": 59.99,
+          "image": "https://thumbs.atmegame.com/thumbs/6565_thumb.jpg",
+          "url": "https://games.atmegame.com/games/supe-pon-goal/"
+        },
+        {
+          "name": "Basketball",
+          "price": 34.99,
+          "image": "https://thumbs.atmegame.com/thumbs/4832_thumb.jpg",
+          "url": "https://games.atmegame.com/games/basketball/"
+        },
+        {
+          "name": "Table Tennis",
+          "price": 34.99,
+          "image": "https://thumbs.atmegame.com/thumbs/6564_thumb.jpg",
+          "url": "https://games.atmegame.com/games/stickman-table-tennis/"
+        },
+        {
+          "name": "Pool 8 Ball",
+          "price": 34.99,
+          "image": "https://thumbs.atmegame.com/thumbs/6551_thumb.jpg",
+          "url": "https://games.atmegame.com/games/pool-8-ball"
+        },
+        {
+          "name": "Air Hockey",
+          "price": 34.99,
+          "image": "https://thumbs.atmegame.com/thumbs/4699_thumb.jpg",
+          "url": "https://games.atmegame.com/games/air-hockey/"
+        },
+        {
+          "name": "Monster Truck Soccer",
+          "price": 34.99,
+          "image": "https://thumbs.atmegame.com/thumbs/4654_thumb.jpg",
+          "url": "https://games.atmegame.com/games/monster-truck-football/"
+        },
+        {
+          "name": "Stick Golf",
+          "price": 34.99,
+          "image": "https://thumbs.atmegame.com/thumbs/5964_thumb.jpg",
+          "url": "https://html5.gamedistribution.com/f5e9fa2b0d4246deb4866b60876121ce/"
+        }
+    
+      ]
+}
