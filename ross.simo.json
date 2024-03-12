@@ -29,13 +29,13 @@
           "url": "https://www.rossstores.com/store-locator/"
         },
         {
-          "name": "jobs",
+          "name": "jobs-store",
           "price": 49.99,
           "image": "https://media.glassdoor.com/lst/88/38/70/27/sps-associates-protecting-the-treasures.jpg",
           "url": "https://jobs.rossstores.com/"
         },
         {
-          "name": "gift",
+          "name": "gift-store",
           "price": 59.99,
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-G4iFpR-TcFoM7QIDOmuO720bpOVTT7vjOMLj8BaksFHm7AmO4VNmrVk6qDqkdliZHrE&usqp=CAU",
           "url": "https://www.rossstores.com/gift-cards/"
