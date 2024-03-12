@@ -51,30 +51,23 @@
 
    "jacket": [
         {
-          "name": "Classic Blue Jeans",
+          "name": "found-in-store",
           "price": 39.99,
-          "image": "https://example.com/classic-blue-jeans.jpg",
-          "url": "https://example.com/product/classic-blue-jeans"
+          "image": "https://media-library.stackla.com/10/rossstores/2023-06/6489b6e1ec07a93530aeb78e_07dda640-0abc-11ee-b49a-65eea2beacdc.jpeg?format=webp&d=400",
+          "url": "https://www.rossstores.com/found-in-store/"
         },
         {
-          "name": "Slim Fit Black Jeans",
+          "name": "found-in-store",
           "price": 49.99,
-          "image": "https://example.com/slim-fit-black-jeans.jpg",
-          "url": "https://example.com/product/slim-fit-black-jeans"
+          "image": "https://media-library.stackla.com/10/rossstores/2023-06/647d0d3e55a69f17008ed285_763a4070-03bf-11ee-9677-7105db13e00f.jpeg?format=webp&d=400",
+          "url": "https://www.rossstores.com/found-in-store/"
         },
         {
-          "name": "Distressed Denim",
+          "name": "found-in-store",
           "price": 59.99,
-          "image": "https://example.com/distressed-denim.jpg",
-          "url": "https://example.com/product/distressed-denim"
-        },
-        {
-          "name": "High-Waisted Skinny Jeans",
-          "price": 34.99,
-          "image": "https://example.com/high-waisted-skinny-jeans.jpg",
-          "url": "https://example.com/product/high-waisted-skinny-jeans"
+          "image": "https://media-library.stackla.com/10/rossstores/2023-02/63f5240bfa37d661e3ce15dd_9b4ae980-b227-11ed-aaab-a3bba4a615a6.jpeg?format=webp&d=400",
+          "url": "https://www.rossstores.com/found-in-store/"
         }
-    
       ],
    "shirt": [
         {
