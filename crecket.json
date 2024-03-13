@@ -22,59 +22,13 @@
         }
     ],
     "jeans": [
-        {
-          "name": "Classic Blue Jeans",
-          "price": 39.99,
-          "image": "https://th.bing.com/th/id/R.cfe77df92b5f5a1ca8a447ac96041503?rik=e2u0GUJ7K1EIgg&pid=ImgRaw&r=0",
-          "url": "https://example.com/product/classic-blue-jeans"
-        },
-        {
-          "name": "Slim Fit Black Jeans",
-          "price": 49.99,
-          "image": "https://th.bing.com/th/id/OIP.oSd6n8_7zYsqQ8e-aekkzwHaLH?pid=ImgDet&w=768&h=1152&rs=1",
-          "url": "https://example.com/product/slim-fit-black-jeans"
-        },
-        {
-          "name": "Distressed Denim",
-          "price": 59.99,
-          "image": "https://static.bershka.net/4/photos2/2022/I/0/2/p/0526/335/400/0526335400_2_4_1.jpg",
-          "url": "https://example.com/product/distressed-denim"
-        },
-        {
-          "name": "High-Waisted Skinny Jeans",
-          "price": 34.99,
-          "image": "https://th.bing.com/th/id/OIP.R1VkX065HB_T2a0wi2OIJgHaKW?pid=ImgDet&w=1500&h=2098&rs=1",
-          "url": "https://example.com/product/high-waisted-skinny-jeans"
-        }
+        
+    
     
       ],
 
    "jacket": [
-        {
-          "name": "Classic Blue Jeans",
-          "price": 39.99,
-          "image": "https://example.com/classic-blue-jeans.jpg",
-          "url": "https://example.com/product/classic-blue-jeans"
-        },
-        {
-          "name": "Slim Fit Black Jeans",
-          "price": 49.99,
-          "image": "https://example.com/slim-fit-black-jeans.jpg",
-          "url": "https://example.com/product/slim-fit-black-jeans"
-        },
-        {
-          "name": "Distressed Denim",
-          "price": 59.99,
-          "image": "https://example.com/distressed-denim.jpg",
-          "url": "https://example.com/product/distressed-denim"
-        },
-        {
-          "name": "High-Waisted Skinny Jeans",
-          "price": 34.99,
-          "image": "https://example.com/high-waisted-skinny-jeans.jpg",
-          "url": "https://example.com/product/high-waisted-skinny-jeans"
-        }
-    
+        
       ],
    "shirt": [
         {
