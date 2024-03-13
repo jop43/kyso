@@ -23,30 +23,23 @@
     ],
     "jeans": [
         {
-          "name": "Classic Blue Jeans",
+          "name": "Poppy Playtime Chapter 3",
           "price": 39.99,
-          "image": "https://th.bing.com/th/id/R.cfe77df92b5f5a1ca8a447ac96041503?rik=e2u0GUJ7K1EIgg&pid=ImgRaw&r=0",
-          "url": "https://example.com/product/classic-blue-jeans"
+          "image": "https://static.planetminecraft.com/files/image/minecraft/mod/2024/083/17461144-img-jxjx-lxmkdkdkd_l.webp",
+          "url": "https://www.mediafire.com/file/ww33l2sksd52p8c/Poppy_Playtime_Chapter_3.mcaddon/file"
         },
         {
-          "name": "Slim Fit Black Jeans",
+          "name": "Poppy Playtime Discontinued",
           "price": 49.99,
-          "image": "https://th.bing.com/th/id/OIP.oSd6n8_7zYsqQ8e-aekkzwHaLH?pid=ImgDet&w=768&h=1152&rs=1",
-          "url": "https://example.com/product/slim-fit-black-jeans"
+          "image": "https://static.planetminecraft.com/files/image/minecraft/mod/2022/680/15696461-screenshot-at-pm_l.webp",
+          "url": "https://static.planetminecraft.com/files/resource_media/mod/poppyplaytimesmallupdate2.jar"
         },
         {
-          "name": "Distressed Denim",
+          "name": "Poppy playtime 1.19.2 Mod ",
           "price": 59.99,
-          "image": "https://static.bershka.net/4/photos2/2022/I/0/2/p/0526/335/400/0526335400_2_4_1.jpg",
-          "url": "https://example.com/product/distressed-denim"
-        },
-        {
-          "name": "High-Waisted Skinny Jeans",
-          "price": 34.99,
-          "image": "https://th.bing.com/th/id/OIP.R1VkX065HB_T2a0wi2OIJgHaKW?pid=ImgDet&w=1500&h=2098&rs=1",
-          "url": "https://example.com/product/high-waisted-skinny-jeans"
+          "image": "https://static.planetminecraft.com/files/image/minecraft/mod/2023/307/16704327_l.webp",
+          "url": "https://www.planetminecraft.com/mod/poppy-playtime-1-19-2-mod-in-m-necraft/download/file/16704324/"
         }
-    
       ],
 
    "jacket": [
