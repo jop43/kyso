@@ -22,9 +22,24 @@
         }
     ],
     "jeans": [
-        
-    
-    
+        {
+          "name": "Cricket Leagues",
+          "price": 39.99,
+          "image": "https://www.geosuper.tv/assets/uploads/updates/2024-03-12/ps_34282_115607_updates.jpg",
+          "url": "https://www.geosuper.tv/assets/uploads/updates/2024-03-12/34282_8095733_updates.jpg"
+        },
+        {
+          "name": "PSL 2024 points",
+          "price": 49.99,
+          "image": "https://www.geosuper.tv/assets/uploads/updates/2024-03-13/34325_66392_updates.jpg",
+          "url": "https://www.geosuper.tv/assets/uploads/updates/2024-03-13/34325_66392_updates.jpg"
+        },
+        {
+          "name": "Kings vs Peshawar",
+          "price": 59.99,
+          "image": "https://www.geosuper.tv/assets/uploads/updates/2024-03-11/34249_7489224_updates.jpg",
+          "url": "https://www.geosuper.tv/assets/uploads/updates/2024-03-11/34249_7489224_updates.jpg"
+        }
       ],
 
    "jacket": [
