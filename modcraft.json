@@ -29,13 +29,13 @@
           "url": "https://www.mediafire.com/file/ww33l2sksd52p8c/Poppy_Playtime_Chapter_3.mcaddon/file"
         },
         {
-          "name": "Poppy Playtime Discontinued",
+          "name": "Poppy Playtime: Chapter-1",
           "price": 49.99,
-          "image": "https://static.planetminecraft.com/files/image/minecraft/mod/2022/680/15696461-screenshot-at-pm_l.webp",
-          "url": "https://static.planetminecraft.com/files/resource_media/mod/poppyplaytimesmallupdate2.jar"
+          "image": "https://static.planetminecraft.com/files/image/minecraft/project/2024/756/17621406-img_l.webp",
+          "url": "https://www.planetminecraft.com/project/poppy-playtime-chapter-1-6220756/"
         },
         {
-          "name": "Poppy playtime 1.19.2 Mod ",
+          "name": "Poppy playtime 1.19.2 Mod",
           "price": 59.99,
           "image": "https://static.planetminecraft.com/files/image/minecraft/mod/2023/307/16704327_l.webp",
           "url": "https://www.planetminecraft.com/mod/poppy-playtime-1-19-2-mod-in-m-necraft/download/file/16704324/"
@@ -44,22 +44,22 @@
 
    "jacket": [
         {
-          "name": "Classic Blue Jeans",
+          "name": "The Great Cheese Bedrock Edition",
           "price": 39.99,
-          "image": "https://example.com/classic-blue-jeans.jpg",
-          "url": "https://example.com/product/classic-blue-jeans"
+          "image": "https://static.planetminecraft.com/files/resource_media/screenshot/1321/2013-05-25_084436_5536907_thumb.jpg",
+          "url": "https://www.planetminecraft.com/project/the-great-cheese---glass-ceiling-version/"
         },
         {
-          "name": "Slim Fit Black Jeans",
+          "name": "Cessna 182p",
           "price": 49.99,
-          "image": "https://example.com/slim-fit-black-jeans.jpg",
-          "url": "https://example.com/product/slim-fit-black-jeans"
+          "image": "https://static.planetminecraft.com/files/image/minecraft/project/2024/467/17620542-default_l.webp",
+          "url": "https://www.planetminecraft.com/project/palace-6220069/"
         },
         {
-          "name": "Distressed Denim",
+          "name": "Best Hogwarts made",
           "price": 59.99,
-          "image": "https://example.com/distressed-denim.jpg",
-          "url": "https://example.com/product/distressed-denim"
+          "image": "https://static.planetminecraft.com/files/resource_media/screenshot/17462559.jpg",
+          "url": "https://www.planetminecraft.com/project/best-hogwarts-made-in-minecraft-3645628/"
         },
         {
           "name": "High-Waisted Skinny Jeans",
