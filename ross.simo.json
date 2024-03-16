@@ -12,9 +12,9 @@
             "ApplovinInterstitial": "5b562b75c8b3ed5a",
             "ApplovinBanner": "39fbf017402d65cb",
 
-            "MaxInterstitial": "",
-            "MaxBanner": "",
-            "MaxNative": "",
+            "MaxInterstitial": "5b562b75c8b3ed5a",
+            "MaxBanner": "39fbf017402d65cb",
+            "MaxNative": "9aeb2b078dea5fcc",
             
             "AdsCount": "3",
             "ActiveApp": "yes",
