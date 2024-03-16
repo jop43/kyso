@@ -9,8 +9,8 @@
             "FanBanner": "2525478620957492_2525890334249654",
             "FanNative": "2525478620957492_2525480507623970",
 
-            "ApplovinInterstitial": "",
-            "ApplovinBanner": "",
+            "ApplovinInterstitial": "5b562b75c8b3ed5a",
+            "ApplovinBanner": "39fbf017402d65cb",
 
             "MaxInterstitial": "",
             "MaxBanner": "",
@@ -18,7 +18,7 @@
             
             "AdsCount": "3",
             "ActiveApp": "yes",
-            "Switch": "admob"
+            "Switch": "applovin"
         }
     ],
     "jeans": [
