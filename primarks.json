@@ -23,56 +23,56 @@
     ],
     "jeans": [
         {
-          "name": "Classic Blue Jeans",
+          "name": "Huile Scintillante",
           "price": 39.99,
-          "image": "https://th.bing.com/th/id/R.cfe77df92b5f5a1ca8a447ac96041503?rik=e2u0GUJ7K1EIgg&pid=ImgRaw&r=0",
-          "url": "https://example.com/product/classic-blue-jeans"
+          "image": "https://cdn.media.amplience.net/i/primark/991094403212_01?$articleimages-regulardesktop$&fmt=auto",
+          "url": "https://www.primark.com/fr-fr/p/huile-scintillante-pour-le-corps-ps-pro-dore-991094403212"
         },
         {
-          "name": "Slim Fit Black Jeans",
+          "name": "Pro Masque Capillaire",
           "price": 49.99,
-          "image": "https://th.bing.com/th/id/OIP.oSd6n8_7zYsqQ8e-aekkzwHaLH?pid=ImgDet&w=768&h=1152&rs=1",
-          "url": "https://example.com/product/slim-fit-black-jeans"
+          "image": "https://cdn.media.amplience.net/i/primark/991067557002_01?$articleimages-regulardesktop$&fmt=auto",
+          "url": "https://www.primark.com/fr-fr/p/ps-pro-masque-capillaire-intensif-reparateur-bond-blanc-991067557002"
         },
         {
-          "name": "Distressed Denim",
+          "name": "Pro Gouttes Bronzantes",
           "price": 59.99,
-          "image": "https://static.bershka.net/4/photos2/2022/I/0/2/p/0526/335/400/0526335400_2_4_1.jpg",
-          "url": "https://example.com/product/distressed-denim"
+          "image": "https://cdn.media.amplience.net/i/primark/991093672620_01?$articleimages-regulardesktop$&fmt=auto",
+          "url": "https://www.primark.com/fr-fr/p/ps-pro-gouttes-bronzantes-instantanees-bronze-991093672620"
         },
         {
-          "name": "High-Waisted Skinny Jeans",
+          "name": "Pro Spray Fixant Scintillant",
           "price": 34.99,
-          "image": "https://th.bing.com/th/id/OIP.R1VkX065HB_T2a0wi2OIJgHaKW?pid=ImgDet&w=1500&h=2098&rs=1",
-          "url": "https://example.com/product/high-waisted-skinny-jeans"
+          "image": "https://www.primark.com/fr-fr/p/ps-pro-spray-fixant-scintillant-dore-991090488212",
+          "url": "https://cdn.media.amplience.net/i/primark/991090488212_01?$articleimages-regulardesktop$&fmt=auto"
         }
     
       ],
 
    "jacket": [
         {
-          "name": "Classic Blue Jeans",
+          "name": "Chemisier boutonné",
           "price": 39.99,
-          "image": "https://example.com/classic-blue-jeans.jpg",
-          "url": "https://example.com/product/classic-blue-jeans"
+          "image": "https://cdn.media.amplience.net/i/primark/991093438935_01?$productimages-regulardesktop$&fmt=auto",
+          "url": "https://www.primark.com/fr-fr/p/chemisier-boutonne-imprime-a-coordonner-multicolore-991093438935"
         },
         {
-          "name": "Slim Fit Black Jeans",
+          "name": "Talons aiguilles Rita",
           "price": 49.99,
-          "image": "https://example.com/slim-fit-black-jeans.jpg",
-          "url": "https://example.com/product/slim-fit-black-jeans"
+          "image": "https://cdn.media.amplience.net/i/primark/991100607306_01?$productimages-regulardesktop$&fmt=auto",
+          "url": "https://www.primark.com/fr-fr/p/talons-aiguilles-rita-ora-avec-petit-bouquet-rose-991100607306"
         },
         {
-          "name": "Distressed Denim",
+          "name": "Sweat-Shirt",
           "price": 59.99,
-          "image": "https://example.com/distressed-denim.jpg",
-          "url": "https://example.com/product/distressed-denim"
+          "image": "https://cdn.media.amplience.net/i/primark/991090278804_01?$articleimages-regulardesktop$&fmt=auto",
+          "url": "https://www.primark.com/fr-fr/p/sweat-shirt-ras-du-cou-kem-noir-991090278804"
         },
         {
-          "name": "High-Waisted Skinny Jeans",
+          "name": "Baskets Trail Runner",
           "price": 34.99,
-          "image": "https://example.com/high-waisted-skinny-jeans.jpg",
-          "url": "https://example.com/product/high-waisted-skinny-jeans"
+          "image": "https://cdn.media.amplience.net/i/primark/991073969416_01?$articleimages-regulardesktop$&fmt=auto",
+          "url": "https://www.primark.com/fr-fr/p/baskets-trail-runner-kaki-991073969416"
         }
     
       ],
